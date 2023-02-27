@@ -55,7 +55,7 @@ a:active{text-decoration: none;}
 .navy{
     display: flex;
     flex-direction: column;
-    padding: 10px 250px 100px 250px;
+    padding: 20px 250px 100px 250px;
     gap: 70px
 }
 
